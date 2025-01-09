@@ -1,5 +1,6 @@
 import styled, { keyframes } from "styled-components";
 
+
 export const LogoAnimation = keyframes`
   0% {
     background-position: -200%;
