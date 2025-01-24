@@ -1,0 +1,164 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Dev de site",
+      "type": "income",
+      "category": "Dev",
+      "price": 6000,
+      "createAt": "2022-12-12"
+    },
+    {
+      "id": 2,
+      "description": "Compras no mercado",
+      "type": "outcome",
+      "category": "Pessoal",
+      "price": 500,
+      "createAt": "2023-12-12"
+    },
+    {
+      "id": 3,
+      "description": "Venda de eBook",
+      "type": "income",
+      "category": "Vendas",
+      "price": 150,
+      "createAt": "2023-11-10"
+    },
+    {
+      "id": 4,
+      "description": "Manutenção do carro",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 800,
+      "createAt": "2023-10-05"
+    },
+    {
+      "id": 5,
+      "description": "Pagamento de aluguel",
+      "type": "outcome",
+      "category": "Moradia",
+      "price": 1200,
+      "createAt": "2023-09-01"
+    },
+    {
+      "id": 6,
+      "description": "Freelance de design",
+      "type": "income",
+      "category": "Design",
+      "price": 3000,
+      "createAt": "2023-08-15"
+    },
+    {
+      "id": 7,
+      "description": "Jantar em restaurante",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 250,
+      "createAt": "2023-08-12"
+    },
+    {
+      "id": 8,
+      "description": "Compra de curso online",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 400,
+      "createAt": "2023-07-20"
+    },
+    {
+      "id": 9,
+      "description": "Venda de produto digital",
+      "type": "income",
+      "category": "Vendas",
+      "price": 200,
+      "createAt": "2023-06-18"
+    },
+    {
+      "id": 10,
+      "description": "Compra de livros",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 150,
+      "createAt": "2023-05-15"
+    },
+    {
+      "id": 11,
+      "description": "Consultoria de marketing",
+      "type": "income",
+      "category": "Consultoria",
+      "price": 5000,
+      "createAt": "2023-04-10"
+    },
+    {
+      "id": 12,
+      "description": "Assinatura de streaming",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 30,
+      "createAt": "2023-03-25"
+    },
+    {
+      "id": 13,
+      "description": "Pagamento de academia",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 100,
+      "createAt": "2023-02-15"
+    },
+    {
+      "id": 14,
+      "description": "Venda de consultoria técnica",
+      "type": "income",
+      "category": "Consultoria",
+      "price": 7000,
+      "createAt": "2023-01-30"
+    },
+    {
+      "id": 15,
+      "description": "Compra de roupas",
+      "type": "outcome",
+      "category": "Pessoal",
+      "price": 600,
+      "createAt": "2023-01-20"
+    },
+    {
+      "id": 16,
+      "description": "Venda de software",
+      "type": "income",
+      "category": "Vendas",
+      "price": 8000,
+      "createAt": "2022-12-15"
+    },
+    {
+      "id": 17,
+      "description": "Gastos com viagem",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 3000,
+      "createAt": "2022-11-05"
+    },
+    {
+      "id": 18,
+      "description": "Desenvolvimento de aplicativo",
+      "type": "income",
+      "category": "Dev",
+      "price": 12000,
+      "createAt": "2022-10-01"
+    },
+    {
+      "id": 19,
+      "description": "Assinatura de internet",
+      "type": "outcome",
+      "category": "Serviços",
+      "price": 150,
+      "createAt": "2022-09-15"
+    },
+    {
+      "id": 20,
+      "description": "Venda de template web",
+      "type": "income",
+      "category": "Vendas",
+      "price": 400,
+      "createAt": "2022-08-20"
+    }
+  ]
+}
